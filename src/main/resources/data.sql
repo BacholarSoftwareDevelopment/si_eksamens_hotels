@@ -1,0 +1,1 @@
+INSERT INTO hotel VALUES (1, 'Scandic');
