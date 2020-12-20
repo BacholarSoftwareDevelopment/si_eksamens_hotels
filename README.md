@@ -2,7 +2,7 @@
 
 **Explained:**
 
-WebService that contain list of hotels, that will be connected to consumer messages if hotels are setas topic.
+WebService that contain list of hotels, that will be connected to consumer messages if hotels are set as topic.
 
 **Port:**
 
